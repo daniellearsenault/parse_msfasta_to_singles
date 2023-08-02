@@ -1,5 +1,5 @@
 #!/bin/bash
-echo enter MS FASTA file to convert
+echo Enter MS FASTA file to convert
 read filename
 while read line
 do
